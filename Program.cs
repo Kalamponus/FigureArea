@@ -8,8 +8,7 @@ using FigureAreaLib;
 namespace FigureArea
 {
     internal class Program
-    {
-        
+    {       
         static void Main(string[] args)
         {
             Triangle triangle = new Triangle(2, 6, 10);
